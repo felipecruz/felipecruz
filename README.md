@@ -24,9 +24,10 @@ My work combines applied optimisation, ML, and production-grade Python systems.
 
 ## Featured open source
 
+- **[ffs](https://github.com/felipecruz/ffs)**: a "stupid obvious" file searcher written in Zig. It is faster than ripgrep in most tests.
+- **[fds](https://github.com/felipecruz/fds)**: fast string search for Parquet and Arrow files. A clean Zig utility.
 - **[coopy](https://github.com/felipecruz/coopy)**: used across a broad range of Python projects, from retail totems to expositions.
-- **[ffs](https://github.com/felipecruz/ffs)**: recent work.
-- **[fds](https://github.com/felipecruz/fds)**: recent work.
+- **[pyzmq](https://github.com/zeromq/pyzmq)**: I wrote the CFFI backend, which came from my [zmqpy](https://github.com/felipecruz/zmqpy) project and was merged into pyzmq.
 - **[CFRBM](https://github.com/felipecruz/CFRBM)**: Python implementation with academic citation impact.
 
 ## Talks
