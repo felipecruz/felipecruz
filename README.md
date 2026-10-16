@@ -16,7 +16,7 @@ My work combines applied optimisation, ML, and production-grade Python systems.
 
 | | |
 |---|---|
-| 📘 **Book author** | 2,000+ copies sold — [Python book](https://www.casadocodigo.com.br/products/livro-python-3) |
+| 📘 **Book author** | 2,000+ copies sold — [Python book](https://www.casadocodigo.com.br/products/livro-python-3). In 2014, the book guided readers through building a small app to inspect Brazilian government spending on the 2014 World Cup ([code examples](https://github.com/felipecruz/exemplos)) |
 | 🎓 **Python MOOC author** | 4,000+ students |
 | 🏢 **Entrepreneur** | 2 exits (medical and tech industries). Both companies are still operating |
 | 🔬 **Research impact** | [CFRBM](https://github.com/felipecruz/CFRBM) Python implementation cited in [*Nature Communications*](https://www.nature.com/articles/s41467-020-16378-3) |
