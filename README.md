@@ -49,4 +49,4 @@ My work combines applied optimisation, ML, and production-grade Python systems.
 
 ## Focus areas
 
-`Mobility` · `Optimisation` · `Machine Learning` · `Python` · `Applied Research`
+`Mobility` · `Optimisation` · `Machine Learning` · `Programming Languages` · `Applied Research`
