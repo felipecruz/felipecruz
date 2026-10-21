@@ -14,9 +14,9 @@ My work combines applied optimisation, ML, and production-grade Python systems.
 
 ## Track record
 
-- 🚗 **Mobility at MSX International**: large-scale warranty classification; lifecycle analysis and optimisation with a Markov-Modulated Gamma Increments Model (MMGIM)
+- 🚗 **Mobility at MSX International**: Lifecycle analysis and optimisation. Vin specific mileage accumulation with Markov-Modulated Gamma Increments Model (MMGIM)
 - 📘 **Book author**: 2,000+ copies sold of [*Python 3*](https://www.casadocodigo.com.br/products/livro-python-3); readers build an app to inspect Brazilian government spending on the 2014 World Cup ([code](https://github.com/felipecruz/exemplos))
-- 🎓 **Python MOOC author**: 4,000+ students; built for the TimTec organization in Brazil
+- 🎓 **Python MOOC author**: 4,000+ students; built for the [TimTec](https://timtec.com.br/pt/) organization in Brazil
 - 🏢 **Entrepreneur**: 2 exits (medical, tech); both companies still operating
 - 🔬 **Research impact**: [CFRBM](https://github.com/felipecruz/CFRBM) Python implementation cited in [*Nature Communications*](https://www.nature.com/articles/s41467-020-16378-3)
 - 🌱 **Open source**: joined SourceForge at the age of 16 ([Dperl](https://sourceforge.net/projects/dperl/))
@@ -27,6 +27,7 @@ My work combines applied optimisation, ML, and production-grade Python systems.
 - **[fds](https://github.com/felipecruz/fds)**: fast string search for Parquet and Arrow files. A clean Zig utility.
 - **[coopy](https://github.com/felipecruz/coopy)**: used across a broad range of Python projects, from retail totems to expositions.
 - **[pyzmq](https://github.com/zeromq/pyzmq)**: I wrote the CFFI backend, which came from my [zmqpy](https://github.com/felipecruz/zmqpy) project and was merged into pyzmq.
+- **[encoded-decoers](https://github.com/wavebits/encodec-decoders)**: Fast, low memory, small binary Meta's Encodec decoder in C. 
 
 ## Talks
 
